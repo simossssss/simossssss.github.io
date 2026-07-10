@@ -1,2 +1,1 @@
-# simossssss.github.io
-personal info website
+<h1>blep</h1>
